@@ -1,0 +1,1 @@
+Vamos a comfigurar un entorno con docker-composer, utilizando las imagenes de mongo db, de nodejs y reactjs.
